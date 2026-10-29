@@ -1,0 +1,17 @@
+{
+    "dataset_rows": 10000,
+    "dataset_columns": 14,
+    "model_feature_count": 6,
+    "failure_count": 339,
+    "normal_count": 9661,
+    "failure_percentage": 3.39,
+    "missing_values": 0,
+    "model_features": [
+        "Type",
+        "Air temperature [K]",
+        "Process temperature [K]",
+        "Rotational speed [rpm]",
+        "Torque [Nm]",
+        "Tool wear [min]"
+    ]
+}
